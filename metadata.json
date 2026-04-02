@@ -1,0 +1,5 @@
+{
+  "name": "EMI Tracker",
+  "description": "A modern checklist app to track monthly loan EMI payments, resetting automatically on the 1st of every month.",
+  "requestFramePermissions": []
+}
